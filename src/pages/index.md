@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: JaimerWaymer
-image: /img/home-jumbotron.jpg
+image: /img/jaimerwaymer.jpg
 heading: JaimerBlog
 subheading: Miss Jaimer's fantastic blog
 mainpitch:
