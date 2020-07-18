@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: JaimerWaymer
 image: /img/home-jumbotron.jpg
 heading: JaimerBlog
 subheading: Miss Jaimer's fantastic blog
