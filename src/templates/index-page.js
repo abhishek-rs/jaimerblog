@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Features from '../components/Features';
 import BlogRoll from '../components/BlogRoll';
+import ScrollDown from '../components/ScrollDown';
 
 export const IndexPageTemplate = ({
   image,
@@ -43,6 +44,7 @@ export const IndexPageTemplate = ({
           <h1>{title}</h1>
           <p>{subheading}</p>
         </div>
+        <ScrollDown />
       </div>
     </div>
     <section className="section section--gradient">

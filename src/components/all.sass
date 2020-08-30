@@ -12,6 +12,9 @@ $body-color: $third
 $black: $third
 $body-background-color: $primary-invert
 
+html
+  scroll-behavior: smooth
+
 body
   font-family: 'Assistant', sans-serif !important
 
@@ -86,10 +89,9 @@ body
     width: 100% !important
 
 .profile-intro
-  margin-left: 16px
   border-radius: 8px
   text-align: center
-  width: 60%
+  width: 70%
   text-shadow: 1px 1px 2px #353535
   h1
     color: $primary-invert
@@ -100,6 +102,15 @@ body
     color: $primary-invert
     padding: 16px
     font-size: 1.5rem
+
+.section-page-heading
+  color: $primary-invert
+  font-family: 'Great Vibes', cursive
+  font-size: 4rem
+  padding: 16px
+  text-shadow: 1px 1px 2px #353535
+  background: rgba($primary, 0.7)
+  border-radius: 4px
 
 .btn
   display: inline-block
@@ -132,6 +143,7 @@ body
   min-width: 128px
   justify-content: center
   font-size: 1.2rem
+  text-align: center
 
 .navbar-item:hover
   color: $primary !important
@@ -163,6 +175,7 @@ footer.footer
 .menu-list
   list-style: none !important
   text-align: left
+  margin: 0 !important
 .social
   padding: 2em
 .social a
@@ -190,6 +203,9 @@ footer.footer
   font-weight: bold
   font-family: 'Great Vibes', cursive
 
+.logo-inactive
+  display: none !important
+
 .logo:hover
   text-decoration: none
 
@@ -202,11 +218,66 @@ footer.footer
   display: flex
   justify-content: center
   color: $primary-invert
+  text-align: center
   a
     color: $primary-invert
   a:hover
     text-decoration: underline
     color: $primary-invert
+
+.scroll-down-button
+  height: 50px
+  width: 50px
+  display: flex
+  border-radius: 50%
+  position: absolute
+  bottom: 10%
+  justify-content: center
+  background: rgba($primary-invert, 0.6)
+  cursor: pointer
+
+  .arrow-down
+    position: relative
+    text-align: center
+    top: 44%
+    padding: 12px
+    height: 20px
+    width: 20px
+
+  .arrow-down:before
+    content: ''
+    position: absolute
+    top: 0
+    left: 0
+    height: 25%
+    width: 51%
+    background: $primary
+    transform: skew(0deg, 40deg)
+
+  .arrow-down:after
+    content: ''
+    position: absolute
+    top: 0
+    right: 0
+    height: 25%
+    width: 50%
+    background: $primary
+    transform: skew(0deg, -40deg)
+
+.scroll-down-button:hover
+  box-shadow: 0px 2px 20px rgba($primary-invert, 0.7)
+
+.logo-burger
+  display: none !important
+  position: absolute !important
+  margin: auto
+  left: 0
+  right: 0
+  padding: 4px !important
+
+.logo-burger:hover
+  background: $primary !important
+  color: $primary-invert !important
 
 @import "~bulma"
 
@@ -221,19 +292,22 @@ footer.footer
   .navbar-centered
     display: block
   .profile-image
-    width: 35%
+    width: 45%
   .profile-intro
     color: $primary-invert
-    margin-left: 16px
     border-radius: 8px
     text-align: center
-    width: calc(80% - 32px)
+    width: calc(100% - 32px)
     h1
       font-size: 2.5rem
     p
       font-size: 1.2rem
 
 +mobile
+  .logo-burger
+    display: flex !important
+  .full-width-image, .full-width-image-container, .hero-backdrop
+    height: calc(100vh - 3.25rem) !important
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
@@ -244,8 +318,10 @@ footer.footer
     width: 80vw
     flex-direction: column
   .profile-image
-    width: 50%
+    width: 70%
   .navbar-centered
     display: block
   .navbar
     min-height: 3.25rem !important
+  .profile-intro
+    width: 100%

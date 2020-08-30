@@ -1,8 +1,7 @@
 import React from 'react';
-
 import Layout from '../../components/Layout';
 import FYRRoll from '../../components/FYRRoll';
-
+import ScrollDown from '../../components/ScrollDown';
 export default class FYRIndexPage extends React.Component {
   render() {
     return (
@@ -13,16 +12,10 @@ export default class FYRIndexPage extends React.Component {
             backgroundImage: `url('/img/young.jpg')`,
           }}
         >
-          <h1
-            className="has-text-weight-bold is-size-1"
-            style={{
-              backgroundColor: '#427AA1',
-              color: 'white',
-              padding: '1rem',
-            }}
-          >
-            For younguns
+          <h1 className="section-page-heading has-text-weight-bold is-size-1">
+            For young readers
           </h1>
+          <ScrollDown />
         </div>
         <section className="section">
           <div className="container">

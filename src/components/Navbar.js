@@ -38,6 +38,9 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             {/* Hamburger menu */}
+            <Link to="/" className="navbar-item logo logo-burger" title="Logo">
+              Jaimer.Blog
+            </Link>
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
@@ -62,7 +65,13 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/article">
                 Articles
               </Link>
-              <Link to="/" className="navbar-item logo" title="Logo">
+              <Link
+                to="/"
+                className={`navbar-item logo ${
+                  this.state.active ? 'logo-inactive' : 'logo-active'
+                }`}
+                title="Logo"
+              >
                 Jaimer.Blog
               </Link>
               <Link className="navbar-item" to="/blog">
