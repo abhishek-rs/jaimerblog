@@ -1,16 +1,15 @@
 import React from 'react';
-
 import Layout from '../../components/Layout';
-import BlogRoll from '../../components/BlogRoll';
+import ShortStoryRoll from '../../components/ShortStoryRoll';
 
-export default class BlogIndexPage extends React.Component {
+export default class ShortStoryIndexPage extends React.Component {
   render() {
     return (
       <Layout>
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog.jpg')`,
+            backgroundImage: `url('/img/books.jpg')`,
           }}
         >
           <h1
@@ -21,13 +20,13 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            My Blog
+            Short Stories
           </h1>
         </div>
         <section className="section">
           <div className="container">
             <div className="content">
-              <BlogRoll />
+              <ShortStoryRoll />
             </div>
           </div>
         </section>

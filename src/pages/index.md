@@ -1,11 +1,12 @@
 ---
 templateKey: index-page
-title: JaimerWaymer
-image: /img/jaimerwaymer.jpg
+title: Jaime Ellenberger
+image: /img/main2.jpg
+profileImage: /img/profile.png
 heading: JaimerBlog
-subheading: Miss Jaimer's fantastic blog
+subheading: Enter catchy one-liner here
 mainpitch:
-  title: Why Jaimer
+  title: Introduction
   description: >
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -13,10 +14,6 @@ mainpitch:
     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
     non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png

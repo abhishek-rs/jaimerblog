@@ -1,16 +1,16 @@
 import React from 'react';
 
 import Layout from '../../components/Layout';
-import BlogRoll from '../../components/BlogRoll';
+import FYRRoll from '../../components/FYRRoll';
 
-export default class BlogIndexPage extends React.Component {
+export default class FYRIndexPage extends React.Component {
   render() {
     return (
       <Layout>
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog.jpg')`,
+            backgroundImage: `url('/img/young.jpg')`,
           }}
         >
           <h1
@@ -21,13 +21,13 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            My Blog
+            For younguns
           </h1>
         </div>
         <section className="section">
           <div className="container">
             <div className="content">
-              <BlogRoll />
+              <FYRRoll />
             </div>
           </div>
         </section>
