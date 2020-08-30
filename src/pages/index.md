@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Jaime Ellenberger
-image: /img/main2.jpg
+image: /img/nrte8351.jpg
 profileImage: /img/profile.png
 heading: JaimerBlog
 subheading: Enter catchy one-liner here
