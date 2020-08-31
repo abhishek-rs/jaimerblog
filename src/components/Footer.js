@@ -1,11 +1,8 @@
 import React from 'react';
 import { Link } from 'gatsby';
-
-import logo from '../img/logo.svg';
 import facebook from '../img/social/facebook.svg';
 import instagram from '../img/social/instagram.svg';
 import twitter from '../img/social/twitter.svg';
-import vimeo from '../img/social/vimeo.svg';
 
 const Footer = class extends React.Component {
   render() {
@@ -62,14 +59,24 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="footer-column column is-4 social">
-                <a title="facebook" target="_blank" href="https://facebook.com">
+                <a
+                  title="facebook"
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://facebook.com"
+                >
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" target="_blank" href="https://twitter.com">
+                <a
+                  title="twitter"
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://twitter.com"
+                >
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -80,6 +87,7 @@ const Footer = class extends React.Component {
                 <a
                   title="instagram"
                   target="_blank"
+                  rel="noreferrer"
                   href="https://instagram.com"
                 >
                   <img

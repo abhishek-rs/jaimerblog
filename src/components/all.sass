@@ -188,15 +188,20 @@ footer.footer
   vertical-align: middle
   display: inline
 
-// blog roll
-.blog-list-item.is-featured
-  background-color: #545C52
 .blog-list-item header
   display: flex
   margin-bottom: 1em
+  background: #fffcfc !important
 .blog-list-item .featured-thumbnail
   flex-basis: 35%
   margin: 0 1.5em 0 0
+.blog-list-item
+  .button
+    background: $primary
+    color: $primary-invert
+  .button:hover
+    box-shadow: 0px 2px 20px rgba($primary, 0.7)
+    color: $primary-invert
 
 .logo
   font-size: 2rem !important
@@ -279,6 +284,34 @@ footer.footer
   background: $primary !important
   color: $primary-invert !important
 
+.nothing-to-see
+  display: flex
+  justify-content: center
+  align-items: center
+  flex-direction: column
+  box-shadow: 0 0.5em 1em -0.125em rgba(49, 47, 47, 0.1), 0 0px 0 1px rgba(49, 47, 47, 0.02)
+  width: calc(100% - 64px)
+  font-size: 1.5rem
+  background: white
+  padding: 100px
+  border-radius: 4px
+  margin: 32px
+  text-align: center
+
+  h1
+    font-family: 'Great Vibes', cursive
+
+  .home-link
+    background: $primary
+    padding: 8px
+    border-radius: 4px
+    font-size: 1.2rem
+    text-decoration: none
+    color: $primary-invert
+
+  .home-link:hover
+    box-shadow: 0px 2px 20px rgba($primary, 0.7)
+
 @import "~bulma"
 
 // responsiveness
@@ -302,8 +335,14 @@ footer.footer
       font-size: 2.5rem
     p
       font-size: 1.2rem
+  .nothing-to-see
+    width: calc(100% - 16px)
+    margin: 8px
+    padding: 16px
 
 +mobile
+  .section
+    padding: 2rem 1rem
   .logo-burger
     display: flex !important
   .full-width-image, .full-width-image-container, .hero-backdrop
@@ -325,3 +364,10 @@ footer.footer
     min-height: 3.25rem !important
   .profile-intro
     width: 100%
+  .nothing-to-see
+    width: calc(100% - 16px)
+    margin: 8px
+    padding: 8px
+    font-size: 1.3rem
+  .scroll-down-button
+    bottom: 4%
