@@ -31,7 +31,7 @@ export default class Index extends React.Component {
       this.state.message;
 
     fetch(
-      `https://api.telegram.org/bot${process.env.TELEGRAM_BOT}/sendMessage?chat_id=${process.env.TELEGRAM_CHAT_ID}&text=` +
+      `https://api.telegram.org/bot${process.env.GATSBY_TELEGRAM_BOT}/sendMessage?chat_id=${process.env.GATSBY_TELEGRAM_CHAT_ID}&text=` +
         contactMessage,
       { method: 'GET' }
     ).catch((err) => {
