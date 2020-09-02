@@ -20,6 +20,10 @@ export default class ShortStoryIndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
+              <p className="section-intro">
+                Stories crossing multiple genres, styles, and audiences. Find
+                one for you!
+              </p>
               <ShortStoryRoll />
             </div>
           </div>

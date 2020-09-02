@@ -20,6 +20,9 @@ export default class ArticleIndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
+              <p className="section-intro">
+                Entries submitted to international magazines and websites
+              </p>
               <ArticleRoll />
             </div>
           </div>

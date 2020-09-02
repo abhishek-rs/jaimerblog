@@ -20,6 +20,10 @@ export default class BlogIndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
+              <p className="section-intro">
+                Read about my personal experiences while teaching and traveling
+                abroad
+              </p>
               <BlogRoll />
             </div>
           </div>
