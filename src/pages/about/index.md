@@ -5,7 +5,7 @@ title: About
 ---
 ### At a glance
 
-Just a jaimerwaymer
+
 
 ### Background
 
@@ -13,11 +13,11 @@ Scootdale! Scoot Scoot!
 
 ### Education
 
-Penn State bitchez
+Penn State
 
 ### Work
 
-IES...unfortunately 
+IES
 
 ### Goals
 
