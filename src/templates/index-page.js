@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
-import BlogRoll from '../components/BlogRoll';
+import FeaturedPostRoll from '../components/FeaturedPostRoll';
 import ScrollDown from '../components/ScrollDown';
 
 export const IndexPageTemplate = ({
@@ -52,17 +52,15 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content">
                   <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
+                    <h1 className="title landing-title">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
                     <p className="subtitle">{mainpitch.description}</p>
                   </div>
                 </div>
                 <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
-                  </h3>
-                  <BlogRoll />
+                  <p className="landing-title">Recent posts</p>
+                  <FeaturedPostRoll />
                 </div>
               </div>
             </div>

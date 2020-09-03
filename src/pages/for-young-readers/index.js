@@ -19,7 +19,7 @@ export default class FYRIndexPage extends React.Component {
         </div>
         <section className="section">
           <div className="container">
-            <div className="content">
+            <div className="content section-content">
               <p className="section-intro">
                 Stories and more for growing minds
               </p>

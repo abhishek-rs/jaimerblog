@@ -2,15 +2,16 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { graphql, StaticQuery } from 'gatsby';
 import PostRoll from './PostRoll';
-class ShortStoryRoll extends React.Component {
+
+class FeaturedPostRoll extends React.Component {
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
-    return <PostRoll posts={posts} />;
+    return <PostRoll posts={posts} showSectionLinks />;
   }
 }
 
-ShortStoryRoll.propTypes = {
+FeaturedPostRoll.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -21,10 +22,10 @@ ShortStoryRoll.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query ShortStoryRollQuery {
+      query FeaturedPostRollQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "short-story-post" } } }
+          filter: { frontmatter: { featuredpost: { eq: true } } }
         ) {
           edges {
             node {
@@ -51,6 +52,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <ShortStoryRoll data={data} count={count} />}
+    render={(data, count) => <FeaturedPostRoll data={data} count={count} />}
   />
 );
