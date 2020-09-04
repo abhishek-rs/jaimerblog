@@ -126,6 +126,7 @@ const Footer = class extends React.Component {
                   NetlifyCMS
                 </a>
               </span>
+              <a href="javascript:gaOptout();">Deactivate Google Analytics</a>
             </div>
           </div>
         </div>
