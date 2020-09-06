@@ -63,7 +63,7 @@ const Footer = class extends React.Component {
                   title="facebook"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://facebook.com"
+                  href="https://www.facebook.com/jaime.ellenberger"
                 >
                   <img
                     src={facebook}
@@ -75,7 +75,7 @@ const Footer = class extends React.Component {
                   title="twitter"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://twitter.com"
+                  href="https://twitter.com/JaimeLeigh23"
                 >
                   <img
                     className="fas fa-lg"
@@ -88,7 +88,7 @@ const Footer = class extends React.Component {
                   title="instagram"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/jaimeleigh23"
                 >
                   <img
                     src={instagram}
