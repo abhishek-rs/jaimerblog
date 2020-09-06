@@ -1,4 +1,5 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 import Layout from '../../components/Layout';
 import ShortStoryRoll from '../../components/ShortStoryRoll';
 import ScrollDown from '../../components/ScrollDown';
@@ -6,6 +7,7 @@ export default class ShortStoryIndexPage extends React.Component {
   render() {
     return (
       <Layout>
+        <Helmet title={`Section | Short stories`} />
         <div
           className="full-width-image-container margin-top-0"
           style={{

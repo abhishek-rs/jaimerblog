@@ -1,4 +1,5 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 import { navigate } from 'gatsby-link';
 import Layout from '../../components/Layout';
 
@@ -55,6 +56,7 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
+        <Helmet title={`Contact me`} />
         <section className="section">
           <div className="container">
             <div className="contact content">

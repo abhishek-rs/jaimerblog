@@ -1,8 +1,10 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 import Layout from '../../components/Layout';
 
 export default () => (
   <Layout>
+    <Helmet title={`Thanks for contacting me`} />
     <section className=" section">
       <div className="thank-you container">
         <div className="content">

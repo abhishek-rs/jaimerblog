@@ -1,4 +1,5 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 import Layout from '../../components/Layout';
 import FYRRoll from '../../components/FYRRoll';
 import ScrollDown from '../../components/ScrollDown';
@@ -6,6 +7,7 @@ export default class FYRIndexPage extends React.Component {
   render() {
     return (
       <Layout>
+        <Helmet title={`Section | For young readers`} />
         <div
           className="full-width-image-container margin-top-0"
           style={{

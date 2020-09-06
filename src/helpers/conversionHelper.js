@@ -12,4 +12,11 @@ const templateKeyToPage = {
   'fyr-post': '/for-young-readers',
 };
 
-export { templateKeyToType, templateKeyToPage };
+const templateKeyToBgImage = {
+  'blog-post': '/img/blog.jpg',
+  'short-story-post': '/img/books.jpg',
+  'article-post': '/img/articles.jpg',
+  'fyr-post': '/img/young.jpg',
+};
+
+export { templateKeyToType, templateKeyToPage, templateKeyToBgImage };

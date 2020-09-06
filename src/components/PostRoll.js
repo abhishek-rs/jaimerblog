@@ -18,9 +18,17 @@ const PostRoll = ({ posts, showSectionLinks = false }) => (
               post.frontmatter.featuredpost ? 'is-featured' : ''
             }`}
           >
+            {!showSectionLinks && post.frontmatter.featuredpost && (
+              <div className="ribbon ribbon-top-right">
+                <span>Featured</span>
+              </div>
+            )}
             <header className="post-header">
               {post.frontmatter.featuredimage ? (
-                <div className="featured-thumbnail post-image">
+                <Link
+                  className="featured-thumbnail post-image"
+                  to={post.fields.slug}
+                >
                   <PreviewCompatibleImage
                     imageInfo={{
                       image: post.frontmatter.featuredimage,
@@ -28,7 +36,7 @@ const PostRoll = ({ posts, showSectionLinks = false }) => (
                     }}
                     inRoll={true}
                   />
-                </div>
+                </Link>
               ) : null}
               <p className="post-meta">
                 <Link
@@ -43,10 +51,12 @@ const PostRoll = ({ posts, showSectionLinks = false }) => (
                 </span>
               </p>
             </header>
-            <p className="post-excerpt">
-              {post.excerpt}
-              <br />
-              <br />
+            <div className="post-excerpt">
+              <p className="excerpt-text">
+                {post.excerpt}
+                <br />
+                <br />
+              </p>
               <Link className="button" to={post.fields.slug}>
                 Keep Reading →
               </Link>
@@ -60,7 +70,7 @@ const PostRoll = ({ posts, showSectionLinks = false }) => (
                   } section →`}
                 </Link>
               )}
-            </p>
+            </div>
           </article>
         </div>
       ))

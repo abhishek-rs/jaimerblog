@@ -18,6 +18,14 @@ html
 body
   font-family: 'Assistant', sans-serif !important
 
+  ::selection
+    background: $primary
+    color: $primary-invert
+
+  ::-moz-selection
+    background: $primary
+    color: $primary-invert
+
 .navbar, .navbar-menu
   background: $jaime-yellow !important
 
@@ -28,16 +36,28 @@ body
   list-style: none
   margin-bottom: 0
   margin-left: 0
-  margin-right: 1.5rem
   margin-top: 1.5rem
   display: flex
   flex-wrap: wrap
-  justify-content: left
+  flex-direction: row
+  justify-content: center
   align-items: center
   li
-    padding: 0 2rem 1rem 0
+    padding: 8px
     margin-bottom: 1.5rem
     margin-top: 0
+    justify-content: center
+    display: flex
+    align-content: center
+
+.blog-taglist
+  justify-content: left !important
+
+  li
+    padding: 0 8px 0 0 !important
+
+    a
+      min-width: 100px
 
 // Helper Classes
 .full-width-image-container
@@ -196,6 +216,7 @@ footer.footer
   flex-basis: 35%
   margin: 0 1.5em 0 0
 .blog-list-item
+  position: relative
   .button
     background: $primary
     color: $primary-invert
@@ -413,6 +434,11 @@ footer.footer
 
 .post-excerpt
   padding-top: 0
+  .excerpt-text
+    display: -webkit-box
+    overflow: hidden
+    -webkit-line-clamp: 4
+    -webkit-box-orient: vertical
 
 .section-content
   max-width: 1200px
@@ -421,6 +447,129 @@ footer.footer
 .second-button
   color: $primary !important
   background: rgba($primary, 0.2) !important
+
+.ribbon
+  width: 150px
+  height: 150px
+  overflow: hidden
+  position: absolute
+  z-index: 5
+
+  ::before,
+  ::after
+    position: absolute
+    z-index: 5
+    content: ''
+    display: block
+    border: 5px solid #7f9a55
+
+  span
+    position: absolute
+    display: block
+    width: 225px
+    padding: 12px 0
+    background-color: #A5CC6B
+    box-shadow: 0 5px 10px rgba(0,0,0,.1)
+    color: #fff
+    font: 600 24px/1 'Great Vibes', cursive
+    text-shadow: 0 1px 1px rgba(0,0,0,.2)
+    text-align: center
+
+.ribbon-top-right
+  top: -7px
+  right: -7px
+
+  ::before,
+  ::after
+    border-right-color: transparent
+    border-left-color: transparent
+
+  ::before
+    top: 48px
+    left: 12px
+
+  ::after
+    bottom: -10px
+    right: 0
+
+  span
+    left: -25px
+    top: 30px
+    transform: rotate(45deg)
+
+.tag-title
+  font-weight: normal !important
+  font-size: 1.4rem !important
+
+.tag-section
+  min-height: 70vh
+
+.post-top-image
+  height: 40vh
+
+.post-section
+  position: relative
+  top: -15vh
+  background: white
+  width: 90vw
+  margin: auto
+  box-shadow: 0 5px 10px rgba(0,0,0,.1)
+  border-radius: 4px
+  font-size: 1.1em
+
+.post-body
+  p > a
+    color: $primary
+    font-weight: bold
+
+  blockquote > p
+    font-style: italic
+
+    ::before, ::after
+      content: '"'
+
+.post-title
+  font-size: 2.5rem
+  font-family: 'Great Vibes', cursive
+
+.post-description
+  font-family: 'Assistant', sans-serif
+  font-style: italic
+  font-size: 1.2rem
+
+.about-section
+  position: relative
+  min-height: calc(100vh - 5.5rem)
+  display: flex
+  justify-content: center
+  align-items: center
+  height: fit-content
+  flex-direction: column
+
+  .about-placeholder
+    height: 0vh
+    width: 100%
+    background: transparent
+
+  .about-container
+    margin: 24px
+    position: relative
+    width: 40vw
+    left: 20vw
+    background: rgba(white, 0.9)
+    box-shadow: 0 5px 10px rgba(0,0,0,.1)
+    border-radius: 4px
+    height: fit-content
+
+  .about-image
+    background-size: cover
+    position: fixed
+    margin: auto
+    left: 0
+    right: 0
+    top: 0
+    z-index: -1
+    height: 100vh
 
 @import "~bulma"
 
@@ -453,6 +602,10 @@ footer.footer
     max-width: 100% !important
   .logo-burger
     display: flex !important
+  .about-section
+    .about-container
+      width: 60vw
+      left: 15vw
 
 +mobile
   .section
@@ -470,6 +623,8 @@ footer.footer
   .index-intro-container
     width: 80vw
     flex-direction: column
+    top: -10vh
+    position: relative
   .profile-image
     width: 70%
   .navbar-centered
@@ -493,3 +648,9 @@ footer.footer
       width: 100%
   .post-image
     max-width: 100% !important
+  .about-section
+    .about-container
+      width: 90vw
+      left: 0
+    .about-placeholder
+      height: 40vh

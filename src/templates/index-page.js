@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Link, graphql } from 'gatsby';
+import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import FeaturedPostRoll from '../components/FeaturedPostRoll';
 import ScrollDown from '../components/ScrollDown';
@@ -41,8 +41,8 @@ export const IndexPageTemplate = ({
           <h1>{title}</h1>
           <p>{subheading}</p>
         </div>
-        <ScrollDown />
       </div>
+      <ScrollDown />
     </div>
     <section className="section section--gradient">
       <div className="container">
