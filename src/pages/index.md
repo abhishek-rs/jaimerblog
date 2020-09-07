@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Jaime Ellenberger
 image: /img/nrte8351.jpg
-profileImage: /img/profile.png
-heading: JaimerBlog
+profileImage: /img/profilepic.jpg
+heading: Hi friend!
 subheading: Enter catchy one-liner here
 mainpitch:
   title: Hello there, visitor!
@@ -20,4 +20,20 @@ mainpitch:
     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
     non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+description: hola
+intro:
+  heading: hola
+  description: hola
+main:
+  heading: hola
+  description: hola
+  image1:
+    alt: hola
+    image: /img/boat.jpg
+  image2:
+    alt: hola
+    image: /img/39086587_2144369689222218_1142584111030861824_n.jpg
+  image3:
+    alt: hola
+    image: /img/city9.jpg
 ---
