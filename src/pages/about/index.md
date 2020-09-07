@@ -5,7 +5,7 @@ title: About Me
 ---
 ### Background
 
-Jaime Ellenberger was born in Scottdale, Pennsylvania in the United States on October 26, 1995. She grew up there with her mom, dad, brother, and dog. Growing up 
+Jaime Ellenberger was born in Scottdale, Pennsylvania in the United States on October 26, 1995. She grew up there with her mom, dad, brother, and dog about an hour outside of Pittsburgh. Growing up, Jaime played sports, did ballet, and learned the saxophone. She grew up surrounded by family, reading, music, and love. 
 
 ### Education
 
