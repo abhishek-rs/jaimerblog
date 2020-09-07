@@ -8,7 +8,7 @@ const templateKeyToType = {
 const templateKeyToPage = {
   'blog-post': '/blog',
   'short-story-post': '/short-stories',
-  'article-post': '/articles',
+  'article-post': '/article',
   'fyr-post': '/for-young-readers',
 };
 
