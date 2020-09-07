@@ -2,11 +2,15 @@
 templateKey: article-post
 title: "We Go Home on Time: Preventing Teacher Burnout in Sweden"
 date: 2020-09-07T17:57:31.479Z
-description: Published on The International Educator website
+description: "Published on The International Educator website:
+  https://www.tieonline.com/article/2770/we-go-home-on-time-preventing-teacher-\
+  burnout-in-sweden "
 featuredpost: true
 featuredimage: /img/swedishflag.jpeg
 tags:
-  - Education Teaching Sweden
+  - Education
+  - Teaching
+  - Sweden
 ---
 “What are you still doing here? Go home!” Two new coworkers said this to me as they passed the copy room I had already been huddled in for a good hour or so.
 
