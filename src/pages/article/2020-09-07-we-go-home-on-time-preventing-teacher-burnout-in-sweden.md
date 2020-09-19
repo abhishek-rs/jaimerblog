@@ -6,7 +6,7 @@ description: "Published on The International Educator website:
   https://www.tieonline.com/article/2770/we-go-home-on-time-preventing-teacher-\
   burnout-in-sweden "
 featuredpost: true
-featuredimage: /img/swedishflag.jpeg
+featuredimage: /img/sweden-flag.jpg
 tags:
   - Education
   - Teaching
