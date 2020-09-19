@@ -22,3 +22,19 @@ Since graduating from Penn State in 2018, Ellenberger has been working at Intern
 ### Goals
 
 In the near future, Jaime would like to continue living in Stockholm, become fluent in Swedish, teach English, write short stories and articles when she isn't teaching, and travel on her breaks from school. More long term goals would be traveling year round, writing daily, and teaching English online.
+
+### Favorite Books and Authors
+
+Jaime loves to read any genre of fiction. Her favorite author is Stephen King.
+
+Here are some books she loves: 
+
+ *\-The Stand, Stephen King*
+
+ *\-Where the Crawdads Sing, Delia Owens*
+
+ *\-I am Malala, Malala Yousafzai*
+
+ *\-The Great Gatsby, F. Scott Fitzgerald*
+
+ *\-Harry Potter and the Half Blood Prince, J. K. Rowling*
