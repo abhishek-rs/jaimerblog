@@ -19,7 +19,7 @@ tags:
   - pura vida
   - turtles
 ---
-"It's never too late in life to have a genuine adventure." -Robert Kurson
+### "It's never too late in life to have a genuine adventure." -Robert Kurson
 
 \
 Today I learned two things: don't flush the toilet paper and my host family has roosters.\
