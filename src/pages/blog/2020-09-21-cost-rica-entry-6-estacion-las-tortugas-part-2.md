@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Cost Rica- Entry #6- Estacion las Tortugas Part 2"
+title: "Costa Rica- Entry #6- Estacion las Tortugas Part 2"
 date: 2020-09-21T20:18:28.055Z
 description: |-
   Written on April 23, 2018
@@ -43,7 +43,5 @@ Pretty much as soon as we started walking, our guide got a message on the walkie
 The next turtle was digging her nest by the time we got there and the guides told us there was water in the nest when she was digging up the sand. They tried to build up the sand around her shell so she thought that her nest was deeper than it really was. If she felt too much water, she wouldn't lay her eggs as it would be a failed nest. We tried to get her to want to lay them however, because we collect them anyways to move them to a safer place where we can better help them survive once they hatch. If she doesn't lay her eggs, she goes back into the ocean. Sometimes they can't wait any longer and they have to have the eggs in the water, guaranteeing that none of the eggs would survive. I'm hoping she found her way back to shore and found a safe place to lay her eggs! I will probably never know.\
 \
 When she decided not to lay her eggs, she began covering up the nest she had made. This is when I actually got to touch her. I put on a glove (to protect both her and me) and walked over with the guide. I got to help measure the width of her shell! She was moving a lot as she finished covering her nest so it was difficult to keep steady (as I am already naturally a clutz) because her strong, huge flippers were hitting against my legs as she moved through the sand. We watched her make her way back into the ocean. It was very difficult to see, but I did get to peer into her large, beautiful eyes. I wish I knew what kinds of things they saw and stories they told. This was the biggest turtle of the season so far! This creature was smacking me with her flipper as she tried to move, was grunting and coughing to get rid of all the sand she swallowed, and all of this is happening while I am basically falling backward into the half filled nest. But this was one of the most amazing, life changing, beautiful things I have ever experienced.\
-\
-Read my next blog post to hear about everything I learned about the biggest reptile on Earth :)\
 \
 *~pura vida*
