@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Costa Rica- Entry #6- Estacion las Tortugas- Part 2"
+title: "Costa Rica- Entry #6: Estacion las Tortugas- Part 2"
 date: 2020-09-21T20:18:28.055Z
 description: |-
   Written on April 23, 2018
