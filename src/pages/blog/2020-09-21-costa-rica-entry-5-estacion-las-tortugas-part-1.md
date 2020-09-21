@@ -19,7 +19,7 @@ tags:
   - pura vida
   - ""
 ---
-> "Know that the same spark of life that is within you, is within all of our animal friends, the desire to live is the same within all of us." -Rai Aren
+> "Know that the same spark of life that is within you, is within all of our animal friends, the desire to live is the same within all of us." -Rai Aren 
 
 The dangerous waves crashing to my left. The rustle of the leaves coming from my right. My feet being weighed down by the constant entering sand. My face dripping with sweat from the humidity and the running. My feet tripping over each other as I get lost in the stars shining in the open sky above me. But I had to keep going- There was a turtle up ahead!
 
