@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Costa Rica- Entry #8: Last Weeks Adventures!"
+title: "Costa Rica- Entry #8: Last Week's Adventures!"
 date: 2020-09-21T20:41:14.778Z
 description: |-
   Written on May 6, 2018
