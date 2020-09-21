@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: "Costa Rica- Entry #2: Mis Primos Dos Dias"
-date: 2016-12-17T15:04:10.000Z
+date: 2020-09-21T19:41:10.533Z
 description: |-
   Written on April 5, 2018.
 
   My journey navigating through my first few days in a new country.
 featuredpost: false
-featuredimage: /img/town3.jpg
+featuredimage: /img/house1.jpg
 tags:
   - travel
   - abroad
@@ -15,9 +15,7 @@ tags:
   - costa rica
   - spanish
 ---
-
-
-![](/img/town2.jpg)
+![](/img/town2.jpg "The town center of Atenas")
 
 Yesterday was my first time having a connecting flight and flying internationally by myself! I'm happy to say that I made it safe and sound and arrived at the airport in San José at around 8pm (or 10 EST). The second I stepped outside of the airport my hair frizzed up so badly that I looked like Troy Polamalu or a member of Kiss.\
 \
