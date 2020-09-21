@@ -1,33 +1,34 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: "Costa Rica- Entry #2: Mis Primos Dos Dias"
 date: 2016-12-17T15:04:10.000Z
+description: |-
+  Written on April 5, 2018.
+
+  My journey navigating through my first few days in a new country.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/town3.jpg
 tags:
-  - flavor
-  - tasting
+  - travel
+  - abroad
+  - teaching
+  - costa rica
+  - spanish
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+![](/img/town2.jpg)
 
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Yesterday was my first time having a connecting flight and flying internationally by myself! I'm happy to say that I made it safe and sound and arrived at the airport in San José at around 8pm (or 10 EST). The second I stepped outside of the airport my hair frizzed up so badly that I looked like Troy Polamalu or a member of Kiss.\
+\
+I met a girl from Austria on my flight (where I had a window seat but instead of a window it was just a wall- my luck!) who had visited Costa Rica just three weeks before. She told me that she fell in love with the country and decided to come back and backpack across the country! I aspire to be that level of adventurous one day.\
+\
+Even though I was mildly terrified of finding a shuttle to the hotel, the staff was extremely helpful and was very patient when I disastrously attempted to use Spanish! Before I knew it, I was checking in to my hotel and watching NatGeo trying to figure out any kind of Spanish I could grasp from it!\
+​\
+Today was my first full day in Atenas, Costa Rica! I had breakfast at my hotel, that was FULL of inspirational quotes and happy thoughts. It helped me start out the day with a positive attitude and a mindset that I could complete my first day in the school. My consultant picked me up from the hotel and took me directly to the school, Atenas Preescolar y Escuela Colina Azul.\
+\
+I started my day in the preschool and kindergarten classrooms, where I learned this would be where I spend most of my time. I will co-teach English in the mornings with another student teacher here, Lauren, in second grade and create math, English, and science centers for the younger students in the afternoons, as well as help the English teacher for the younger grade levels.\
+\
+Today, two other student teachers living with the same host families as me, Lauren and Lauren, took me on a walk into the city of Atenas. After this, our host mom, Marielos, made us dinner! My first authentic Costa Rican meal was amazing! I tried to make sure my host mom knew this with what little Spanish I could communicate. The family here speaks no English so it has been a challenge for me to keep up. Hopefully it'll get easier, though! I'm trying to view it as a new challenge that will only help me!!!\
+\
+Hasta mañana y como siempre- Pura Vida
