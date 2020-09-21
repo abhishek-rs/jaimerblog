@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Costa Rica: Taking That First Step"
+title: "Costa Rica- Entry #1: Taking That First Step"
 date: 2017-01-04T15:04:10.000Z
 description: >-
   This was my first blog post ever written on my old Weebly account. It was
