@@ -6,7 +6,8 @@ description: >-
   This was my first blog post ever written on my old Weebly account. It was
   created back in April of 2018, when I  began my student teaching abroad in
   Costa Rica. I wanted a place to keep all of my memories and experiences and
-  have it all be in one place. 
+  have it all be in one place. This was before I had left the United States for
+  more than a few days. 
 
 
   I haven't changed anything in the writing. Everything is how I wrote it in 2018. 
