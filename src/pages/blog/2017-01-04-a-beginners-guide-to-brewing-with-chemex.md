@@ -18,6 +18,9 @@ tags:
   - abroad
   - costa rica
   - travel
+  - spanish
+  - packing
+  - pura vida
 ---
 ![]()
 
