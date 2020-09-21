@@ -14,6 +14,7 @@ tags:
   - teaching
   - costa rica
   - spanish
+  - pura vida
 ---
 ![](/img/town2.jpg "The town center of Atenas")
 
