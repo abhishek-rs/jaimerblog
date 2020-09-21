@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Costa Rica- Entry #1: Taking That First Step"
-date: 2017-01-04T15:04:10.000Z
+date: 2020-09-21T19:40:00.000Z
 description: >-
   This was my first blog post ever written on my old Weebly account. It was
   created back in April of 2018, when I  began my student teaching abroad in
