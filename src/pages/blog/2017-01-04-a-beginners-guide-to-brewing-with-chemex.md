@@ -1,29 +1,33 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: "Costa Rica: Taking That First Step"
 date: 2017-01-04T15:04:10.000Z
+description: >-
+  This was my first blog post ever written on my old Weebly account. It was
+  created back in April of 2018, when I  began my student teaching abroad in
+  Costa Rica. I wanted a place to keep all of my memories and experiences and
+  have it all be in one place. 
+
+
+  I haven't changed anything in the writing. Everything is how I wrote it in 2018. 
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/beach8.jpg
 tags:
-  - brewing
-  - chemex
+  - teaching
+  - abroad
+  - costa rica
+  - travel
 ---
-![chemex](/img/chemex.jpg)
+![]()
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
-
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
-
-## The little secrets of Chemex brewing
-
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Tomorrow is the day that will change my life forever.\
+\
+I will travel to Costa Rica to teach English for two months as part of my student teaching practicum.\
+\
+The last year was full of preparation and list making, especially this past week. Packing has been, as usual, a stressful activity. Am I bringing too much? Am I bringing too little? What if I need another skirt? Should I bring this one item that no one would ever need for anything ever? OF COURSE I SHOULD EVEN THOUGH I HAVE NO ROOM FOR IT.\
+\
+Somehow my checked bags are under 40 lbs. Still trying to figure out how that happened.\
+\
+Usually I would be buying a one-way ticket to Anxietyville on the hot mess express, but I am surprisingly more excited than nervous! This is my first time to fully immerse myself in a new culture, new food, new school systems, and new people! I can't spend it being antisocial and afraid to try new things.\
+\
+I believe Mark Twain was right when he said, "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover." And that is exactly what I plan on doing.
