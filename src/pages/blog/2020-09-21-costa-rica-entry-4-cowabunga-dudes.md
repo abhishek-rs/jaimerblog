@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Costa Rica- Entry #4: Cowabunga Dudes"
-date: 2020-09-21T19:44:46.775Z
+date: 2020-09-21T19:46:00.000Z
 description: |-
   Written on April 12, 2018
 
