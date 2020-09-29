@@ -4,7 +4,7 @@ title: Jaime Ellenberger
 image: /img/nrte8351.jpg
 profileImage: /img/website2.png
 heading: Hi friend!
-subheading: Enter catchy one-liner here
+subheading: Reader, Writer, Educator
 mainpitch:
   title: Hello there, visitor!
   description: >
