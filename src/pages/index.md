@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Jaime Ellenberger
 image: /img/nrte8351.jpg
-profileImage: /img/asdfghjkl.png
+profileImage: /img/website1.png
 heading: Hi friend!
 subheading: Enter catchy one-liner here
 mainpitch:
