@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Costa Rica- Entry #3: Ticos y Talks"
-date: 2020-09-21T19:34:26.105Z
+date: 2020-09-21T19:45:00.000Z
 description: >-
   Written on April 7, 2018
 
