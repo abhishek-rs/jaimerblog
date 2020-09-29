@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Costa Rica- Entry #2: Mis Primos Dos Dias"
-date: 2020-09-21T19:41:10.533Z
+date: 2020-09-21T19:44:00.000Z
 description: |-
   Written on April 5, 2018.
 
