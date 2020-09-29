@@ -1,12 +1,12 @@
 ---
 templateKey: short-story-post
 title: "Scenes From a Café Part 1: Triple Check"
-date: 2020-08-30T12:48:42.539Z
+date: 2020-09-29T11:31:50.762Z
 description: |-
   Written as a Capstone project for Wesleyan's Creative Writing Specialization
   Part 1 of Scenes From a Café
 featuredpost: true
-featuredimage: /img/ovdc0226.jpg
+featuredimage: /img/coffee-beans-2258839_1920.jpg
 tags:
   - Short story
   - cafe
