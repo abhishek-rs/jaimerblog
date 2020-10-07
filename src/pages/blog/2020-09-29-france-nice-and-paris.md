@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: France- Nice and Paris
+title: "France- Entry #1: Paris"
 date: 2020-09-29T11:47:10.383Z
-description: Trip to France
+description: Trip to France during first Höstlov in Sweden.
 featuredpost: false
 featuredimage: /img/shakespeare2.jpg
 tags:
