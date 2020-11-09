@@ -6,7 +6,7 @@ profileImage: /img/website2.png
 heading: Hi friend!
 subheading: Reader, Writer, Educator
 mainpitch:
-  title: Hello there, visitor!
+  title: Hi friend!
   description: >
     Thanks for coming to my writing website! This is where I put all of my
     finished works of writing- articles submitted or published by magazines or
