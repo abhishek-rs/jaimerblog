@@ -38,3 +38,7 @@ Here are some books she loves:
  *\-The Great Gatsby, F. Scott Fitzgerald*
 
  *\-Harry Potter and the Half Blood Prince, J. K. Rowling*
+
+*\-The Kite Runner, Khaled Hosseini*
+
+*\-The Alchemist, Paulo Coelho*
