@@ -1,6 +1,6 @@
 ---
 templateKey: article-post
-title: "Nothing New Here : Sweden’s schools are staying open"
+title: "Nothing New Here: Sweden’s schools are staying open"
 date: 2020-08-13T17:58:57.673Z
 description: |
   Article submitted to tieonline.com 
