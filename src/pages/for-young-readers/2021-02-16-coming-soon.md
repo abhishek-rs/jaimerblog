@@ -16,6 +16,6 @@ tags:
   - family and friendship
   - travel
 ---
-The story of two girls, forced together through a blended family, work through their differences to have adventures all over the world. 
+The story of two girls, forced together through a blended family, work through their differences and have adventures all over the world. 
 
 ***Sneak Peak:*** ***Coming April 2021***
