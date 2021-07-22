@@ -19,4 +19,18 @@ tags:
   - birthday
   - ""
 ---
-Trip to France
+After moving to Europe, my first chance to travel came very quickly.
+
+As an English teacher in Stockholm, I am provided with lots of breaks throughout the school year (honestly they are more like recovery periods, but yeah you get the point). In the fall term we have a break called Hostlov, *falling* around end of October/ early November. 
+
+At the time, I was living with two other first year teachers, right out of university, 22 years old, and also new to Sweden and international travel in general. We all decided we would spend our week off in France.
+
+Our trip was split into three sections: Paris, Nice, then back to Paris before flying back to cold, dark Sweden. We stayed in an adorable AirBnb in Paris, with the Eiffel Tower visible from the entrance. We spent our days shopping, exploring museums and art, finding the best coffee and creme brulee in the city, and finally realizing we were all actually in Europe and it wasn't a dream.
+
+We did the classics: The Louvre (and yes I played Lorde's song 'The Louvre' on repeat all day that day), Arc de Triomphe, Notre Dame, Sainte-Chapelle, Museum d'Orsay. One thing on my Paris list is the Catacombs which wasn't a priority this trip. Guess I'll just have to do that on my second visit!
+
+One of my favorite Paris nights was at the 
+
+
+
+Paris was somehow never on top of my travel list. But after visiting, I can't believe it wasn't.
