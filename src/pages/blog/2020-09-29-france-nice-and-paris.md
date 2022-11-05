@@ -1,29 +1,30 @@
 ---
 templateKey: blog-post
-title: "France- Entry #1: Paris"
+title: 'France- Entry #1: Paris'
 date: 2020-09-29T11:47:10.383Z
 description: Trip to France during first Höstlov in Sweden.
 featuredpost: false
 featuredimage: /img/shakespeare2.jpg
 tags:
-  - travel
-  - teaching
-  - abroad
-  - france
-  - paris
-  - nice
-  - vacation
-  - höstlov
-  - roommates
-  - fall
-  - birthday
-  - ""
+    - travel
+    - teaching
+    - abroad
+    - france
+    - paris
+    - nice
+    - vacation
+    - höstlov
+    - roommates
+    - fall
+    - birthday
+    - ''
 ---
-*\*Note: Trip was taken in October 2018, written in July 2021\**
+
+\*\*Note: Trip was taken in October 2018, written in July 2021\*\*
 
 After moving to Europe, my first chance to travel came very quickly.
 
-As an English teacher in Stockholm, I am provided with lots of breaks throughout the school year (honestly they are more like recovery periods, but yeah you get the point). In the fall term we have a break called Höstlov, *falling* around end of October/ early November. 
+As an English teacher in Stockholm, I am provided with lots of breaks throughout the school year (honestly they are more like recovery periods, but yeah you get the point). In the fall term we have a break called Höstlov, _falling_ around end of October/ early November.
 
 At the time, I was living with two other first year teachers, right out of university, 22 years old, and also new to Sweden and international travel in general. We all decided we would spend our week off in France.
 

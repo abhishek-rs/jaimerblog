@@ -1,21 +1,22 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
 import Layout from '../../components/Layout';
-import BlogRoll from '../../components/BlogRoll';
+import AcademicBlogRoll from '../../components/AcademicBlogRoll';
 import ScrollDown from '../../components/ScrollDown';
+
 export default class BlogIndexPage extends React.Component {
     render() {
         return (
             <Layout>
-                <Helmet title={`Section | Personal Blog`} />
+                <Helmet title={`Section | Academic Blog`} />
                 <div
                     className="full-width-image-container margin-top-0"
                     style={{
-                        backgroundImage: `url('/img/blog.jpg')`,
+                        backgroundImage: `url('/img/academic-blog.jpg')`,
                     }}
                 >
                     <h1 className="section-page-heading has-text-weight-bold is-size-1">
-                        My Personal Blog
+                        My Academic Blog
                     </h1>
                     <ScrollDown />
                 </div>
@@ -23,10 +24,9 @@ export default class BlogIndexPage extends React.Component {
                     <div className="container">
                         <div className="content section-content">
                             <p className="section-intro">
-                                Read about my personal experiences while
-                                teaching and traveling abroad
+                                Read blogs I wrote during my studies
                             </p>
-                            <BlogRoll />
+                            <AcademicBlogRoll />
                         </div>
                     </div>
                 </section>
