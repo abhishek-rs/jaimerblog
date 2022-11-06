@@ -165,6 +165,25 @@ body
   font-size: 1.2rem
   text-align: center
 
+.navbar-item.small-only
+    display: none
+    
+.navbar-item.large-only
+    display: flex
+
+.navbar-item.navbar-group
+    cursor: pointer
+
+.nav-group-content
+  display: none
+  flex-direction: column
+  position: absolute
+  top: 64px
+  background: $jaime-yellow
+
+.nav-group-content.group-active
+  display: flex
+
 .navbar-item:hover
   color: $primary !important
   background: $primary-invert !important
@@ -577,6 +596,10 @@ footer.footer
 +tablet-only
   .navbar
     min-height: 3.25rem !important
+  .navbar-item.small-only
+    display: flex
+  .navbar-item.large-only
+    display: none
   .blog-list-item .featured-thumbnail
     flex-basis: 50%
   .index-intro-container
@@ -631,6 +654,10 @@ footer.footer
     display: block
   .navbar
     min-height: 3.25rem !important
+  .navbar-item.small-only
+    display: flex
+  .navbar-item.large-only
+    display: none
   .profile-intro
     width: 100%
   .nothing-to-see

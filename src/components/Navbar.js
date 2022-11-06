@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
+import { useState } from 'react';
 
 const Navbar = class extends React.Component {
     constructor(props) {
@@ -85,10 +86,24 @@ const Navbar = class extends React.Component {
                             >
                                 Jaime Ellenberger
                             </Link>
-                            <Link className="navbar-item" to="/blog">
+                            <NavGroup label={'Blogs'}>
+                                <Link className="navbar-item" to="/blog">
+                                    Personal Blog
+                                </Link>
+                                <Link
+                                    className="navbar-item"
+                                    to="/academic-blog"
+                                >
+                                    Academic Blog
+                                </Link>
+                            </NavGroup>
+                            <Link className="navbar-item small-only" to="/blog">
                                 Personal Blog
                             </Link>
-                            <Link className="navbar-item" to="/academic-blog">
+                            <Link
+                                className="navbar-item small-only"
+                                to="/academic-blog"
+                            >
                                 Academic Blog
                             </Link>
                             <Link className="navbar-item" to="/contact">
@@ -106,3 +121,27 @@ const Navbar = class extends React.Component {
 };
 
 export default Navbar;
+
+const NavGroup = ({ label, children }) => {
+    const [showOptions, setShowOptions] = useState(false);
+    const handleFocus = (show) => () => setShowOptions(show);
+
+    return (
+        <div
+            className="navbar-item navbar-group large-only"
+            onMouseEnter={handleFocus(true)}
+            onMouseLeave={handleFocus(false)}
+            onFocusCapture={handleFocus(true)}
+            onBlurCapture={handleFocus(false)}
+        >
+            <div className="nav-group-label">{label}</div>
+            <div
+                className={`nav-group-content ${
+                    showOptions ? 'group-active' : ''
+                }`}
+            >
+                {children}
+            </div>
+        </div>
+    );
+};

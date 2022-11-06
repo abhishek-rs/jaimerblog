@@ -24,7 +24,9 @@ export default class BlogIndexPage extends React.Component {
                     <div className="container">
                         <div className="content section-content">
                             <p className="section-intro">
-                                Read blogs I wrote during my studies
+                                Read blogs I wrote during my studies in language
+                                acquisition and teaching English as a foreign
+                                language
                             </p>
                             <AcademicBlogRoll />
                         </div>
