@@ -13,7 +13,7 @@ Ellenberger attended Penn State Univeristy at the main campus in State College, 
 
 Jaime did part of her student teaching in Atenas, Alajuela, Costa Rica for several months at Atenas Preescolar y Escuela Colina Azul. She taught English to Pre-K-Grade 4.
 
-Since then, Ellenberger continues to take courses online related to education, language learning, and writing.
+J﻿aime is curerntly getting a master's degree from UIC Barcelona in Language Acquisition and Teaching English as a Foreign Language.
 
 ### Work
 
@@ -21,7 +21,7 @@ Since graduating from Penn State in 2018, Ellenberger has been working at Intern
 
 ### Goals
 
-In the near future, Jaime would like to continue living in Stockholm, become fluent in Swedish, teach English, write short stories and articles when she isn't teaching, and travel on her breaks from school. More long term goals would be traveling year round, writing daily, and teaching English online.
+In the near future, Jaime would like to continue living in Stockholm, become fluent in Swedish, teach English, write short stories and articles when she isn't teaching, and travel on her breaks from school. More long term goals would be traveling year round, writing daily, and teaching English around the world.
 
 ### Favorite Books and Authors
 
@@ -31,14 +31,16 @@ Here are some books she loves:
 
  *\-The Stand, Stephen King*
 
- *\-Where the Crawdads Sing, Delia Owens*
+ *\-Loveless, Alice Osman*
 
  *\-I am Malala, Malala Yousafzai*
 
- *\-The Great Gatsby, F. Scott Fitzgerald*
+ *\-Hyperbole and a Half, Allie Brosh*
 
- *\-Harry Potter and the Half Blood Prince, J. K. Rowling*
+*\-﻿Sea of Tranquility- Emily St. John Mandel*
 
-*\-The Kite Runner, Khaled Hosseini*
+*\-﻿The House in the Cerulean Sea, T.J. Klune*
+
+*\-﻿The Sad Ghost Club, Lize Meddings*
 
 *\-The Alchemist, Paulo Coelho*
