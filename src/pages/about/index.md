@@ -5,7 +5,7 @@ title: About Me
 ---
 ### Background
 
-Jaime Ellenberger was born in Scottdale, Pennsylvania in the United States on October 26, 1995. She grew up there with her mom, dad, brother, and dog about an hour outside of Pittsburgh. Growing up, Jaime played sports, did ballet and tap dancing, and learned the saxophone. She grew up surrounded by family, reading, music, and love. 
+Jaime Ellenberger was born in Scottdale, Pennsylvania in the United States on October 26, 1995. She grew up there with her mom, dad, brother, and dog about an hour outside of Pittsburgh. Growing up, Jaime played sports, did ballet and tap dancing, and learned the saxophone.
 
 ### Education
 
@@ -17,11 +17,11 @@ J﻿aime is curerntly getting a master's degree from UIC Barcelona in Language A
 
 ### Work
 
-Since graduating from Penn State in 2018, Ellenberger has been working at Internationella Engelska Skolan (IES) in Stockholm, Sweden. She has taught English, art, and textiles in her three years at the company. The schools operate in English, but Jaime also takes Swedish language courses provided by the government. She teaches grades 4 and 5.
+Since graduating from Penn State in 2018, Ellenberger has been working at Internationella Engelska Skolan (IES) in Stockholm, Sweden. She has taught English, art, and textiles in her five years at the company. The schools operate in English, but Swedish is very widely used between students.
 
 ### Goals
 
-In the near future, Jaime would like to continue living in Stockholm, become fluent in Swedish, teach English, write short stories and articles when she isn't teaching, and travel on her breaks from school. More long term goals would be traveling year round, writing daily, and teaching English around the world.
+In the near future, Jaime would like to get her Swedish passport, become more fluent in Swedish, and receive her Master's in Language Acquisition and TEFL. She would like to write books for children and continue teaching English around the world.
 
 ### Favorite Books and Authors
 
