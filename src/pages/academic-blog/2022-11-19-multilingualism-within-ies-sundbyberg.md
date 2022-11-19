@@ -8,7 +8,7 @@ description: This blog will focus on multilingual students and staff within my
   staff are not Swedish and even those who were born and raised in Sweden have a
   wide range of cultural and linguistic backgrounds.
 featuredpost: false
-featuredimage: /img/screenshot_20221119_100904.png
+featuredimage: /img/city-4478471_1920.jpg
 tags:
   - language acquisition
   - mother tongue
