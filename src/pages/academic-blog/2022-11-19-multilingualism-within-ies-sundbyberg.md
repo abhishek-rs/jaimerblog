@@ -7,7 +7,7 @@ description: This blog will focus on multilingual students and staff within my
   northern Stockholm in a municipality called Sundbyberg. Most of the school
   staff are not Swedish and even those who were born and raised in Sweden have a
   wide range of cultural and linguistic backgrounds.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/city-4478471_1920.jpg
 tags:
   - language acquisition
