@@ -12,7 +12,7 @@ description: >
 
 
   These are a few questions I will answer in the following blog post based off of the podcast The Battle for English with Susie Dent with BBC.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/english-2724442_1920.jpg
 tags:
   - lingua franca
