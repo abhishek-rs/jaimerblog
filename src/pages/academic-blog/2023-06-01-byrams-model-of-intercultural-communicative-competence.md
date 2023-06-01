@@ -4,7 +4,7 @@ title: Byram's Model of Intercultural Communicative Competence
 date: 2023-06-01T21:52:53.317Z
 description: A deeper look into Byram's model as discussed in Cultural Aspects
   of Learning and Teaching English as a Foreign Language
-featuredpost: false
+featuredpost: true
 featuredimage: /img/byrams-1997-framework-for-intercultural-communicative-competence.png
 tags:
   - teaching
